@@ -43,3 +43,5 @@ npm start
 - Improve the board game data adding more fields on the `bgg.json` and increase the amount of board games and users on `users.json`
 
 _This is just a POC for study purpose_
+
+**This repository was created based on a class ministred by [Erick Wendel](https://github.com/erickwendel).**
