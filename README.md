@@ -1,4 +1,4 @@
-# E-commerce Recommendation System
+# Board Game Recommendation System
 
 A web application that displays user profiles and boardgames listings, with the ability to track user purchases for future machine learning recommendations using TensorFlow.js.
 
@@ -30,12 +30,16 @@ npm start
 ## Features
 
 - User profile selection with details display
-- Past purchase history display
+- Favorite boardgames display
 - Boardgames listing with "Add Favorite" functionality
-- Purchase tracking using sessionStorage
+- Favorite boardgames tracking using sessionStorage
 
 ## Future Enhancements
 
 - TensorFlow.js-based recommendation engine
 - User similarity analysis
-- Boardgame recommendation based on purchase history
+- Boardgame recommendation based on favorite games history
+- Not train the model on the Frontend and create a small API to train the model and save on a Vectorial Database to make the website faster.
+- Improve the board game data adding more fields on the `bgg.json` and increase the amount of board games and users on `users.json`
+
+_This is just a POC for study purpose_
