@@ -1,0 +1,141 @@
+[
+   {
+      "id": 1,
+      "age": 38,
+      "name": "Ana Lima",
+      "favorite_games": [
+         {
+            "ID": 7316,
+            "name": "Bingo",
+            "play_time": 60,
+            "complexity_average": 1,
+            "domains": "Party Games"
+         },
+         {
+            "ID": 11901,
+            "name": "Tic-Tac-Toe",
+            "play_time": 1,
+            "complexity_average": 1,
+            "domains": "Abstract Games, Children's Games"
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "age": 53,
+      "name": "Bruno Ferreira",
+      "favorite_games": [
+         {
+            "ID": 232918,
+            "name": "Fallout",
+            "play_time": 180,
+            "complexity_average": 2,
+            "domains": "Thematic Games"
+         },
+         {
+            "ID": 16986,
+            "name": "Ubongo",
+            "play_time": 25,
+            "complexity_average": 1,
+            "domains": "Abstract Games, Family Games"
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "age": 29,
+      "name": "Camila Souza",
+      "favorite_games": [
+         {
+            "ID": 131357,
+            "name": "Coup",
+            "play_time": 15,
+            "complexity_average": 1,
+            "domains": "Party Games"
+         },
+         {
+            "ID": 121288,
+            "name": "Dixit: Journey",
+            "play_time": 30,
+            "complexity_average": 1,
+            "domains": "Party Games"
+         }
+      ]
+   },
+   {
+      "id": 4,
+      "name": "Diego Almeida",
+      "age": 34,
+      "favorite_games": [
+         {
+            "ID": 128780,
+            "name": "Pax Porfiriana",
+            "play_time": 120,
+            "complexity_average": 3,
+            "domains": "Strategy Games"
+         },
+         {
+            "ID": 251658,
+            "name": "Sprawlopolis",
+            "play_time": 20,
+            "complexity_average": 1,
+            "domains": "Family Games"
+         },
+         {
+            "ID": 153938,
+            "name": "Camel Up",
+            "play_time": 30,
+            "complexity_average": 1,
+            "domains": "Family Games"
+         },
+         {
+            "ID": 169255,
+            "name": "A Game of Thrones: The Card Game (Second Edition)",
+            "play_time": 120,
+            "complexity_average": 3,
+            "domains": "Customizable Games"
+         },
+         {
+            "ID": 113924,
+            "name": "Zombicide",
+            "play_time": 60,
+            "complexity_average": 2,
+            "domains": "Thematic Games"
+         }
+      ]
+   },
+   {
+      "id": 5,
+      "age": 27,
+      "name": "Clara Vizeu",
+      "favorite_games": [
+         {
+            "ID": 230802,
+            "name": "Azul",
+            "play_time": 45,
+            "complexity_average": 1,
+            "domains": "Abstract Games, Family Games"
+         },
+         {
+            "ID": 178900,
+            "name": "Codenames",
+            "play_time": 15,
+            "complexity_average": 1,
+            "domains": "Party Games"
+         }
+      ]
+   },
+   {
+      "id": 6,
+      "age": 28,
+      "name": "Ismael Pereira",
+      "favorite_games": [
+         {
+            "name": "Wingspan",
+            "play_time": 70,
+            "complexity_average": 2,
+            "domains": "Family Games, Strategy Games"
+         }
+      ]
+   }
+]

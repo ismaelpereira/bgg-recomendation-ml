@@ -1,0 +1,22 @@
+<div class="col-md-3">
+   <div class="card product-card">
+      <div class="card-body">
+         <h5 class="card-title">
+            <a href="https://boardgamegeek.com/boardgame/{{ID}}" target="_blank"
+               >{{name}}</a
+            >
+         </h5>
+         <h6 class="card-subtitle mb-2 text-muted">{{domains}}</h6>
+         <p class="card-text">
+            <strong>Play Time:</strong> {{play_time}} min<br />
+            <strong>Complexity Average:</strong> {{complexity_average}}<br />
+         </p>
+         <button
+            class="btn btn-primary add-game-btn"
+            data-boardgame="{{boardgame}}"
+         >
+            Add Game
+         </button>
+      </div>
+   </div>
+</div>

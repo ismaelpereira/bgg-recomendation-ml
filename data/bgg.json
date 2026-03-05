@@ -1,0 +1,842 @@
+[
+   {
+      "ID": 174430,
+      "name": "Gloomhaven",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games, Thematic Games"
+   },
+   {
+      "ID": 161936,
+      "name": "Pandemic Legacy: Season 1",
+      "play_time": 60,
+      "complexity_average": 2,
+      "domains": "Strategy Games, Thematic Games"
+   },
+   {
+      "ID": 224517,
+      "name": "Brass: Birmingham",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 167791,
+      "name": "Terraforming Mars",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 233078,
+      "name": "Twilight Imperium: Fourth Edition",
+      "play_time": 480,
+      "complexity_average": 4,
+      "domains": "Strategy Games, Thematic Games"
+   },
+   {
+      "ID": 291457,
+      "name": "Gloomhaven: Jaws of the Lion",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games, Thematic Games"
+   },
+   {
+      "ID": 182028,
+      "name": "Through the Ages: A New Story of Civilization",
+      "play_time": 120,
+      "complexity_average": 4,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 220308,
+      "name": "Gaia Project",
+      "play_time": 150,
+      "complexity_average": 4,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 187645,
+      "name": "Star Wars: Rebellion",
+      "play_time": 240,
+      "complexity_average": 3,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 12333,
+      "name": "Twilight Struggle",
+      "play_time": 180,
+      "complexity_average": 3,
+      "domains": "Strategy Games, Wargames"
+   },
+   {
+      "ID": 169786,
+      "name": "Scythe",
+      "play_time": 115,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 84876,
+      "name": "The Castles of Burgundy",
+      "play_time": 90,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 120677,
+      "name": "Terra Mystica",
+      "play_time": 150,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 173346,
+      "name": "7 Wonders Duel",
+      "play_time": 30,
+      "complexity_average": 2,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 124361,
+      "name": "Concordia",
+      "play_time": 100,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 237182,
+      "name": "Root",
+      "play_time": 90,
+      "complexity_average": 3,
+      "domains": "Strategy Games, Wargames"
+   },
+   {
+      "ID": 31260,
+      "name": "Agricola",
+      "play_time": 150,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 221107,
+      "name": "Pandemic Legacy: Season 2",
+      "play_time": 60,
+      "complexity_average": 3,
+      "domains": "Strategy Games, Thematic Games"
+   },
+   {
+      "ID": 2651,
+      "name": "Power Grid",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 126163,
+      "name": "Tzolk'in: The Mayan Calendar",
+      "play_time": 90,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 164153,
+      "name": "Star Wars: Imperial Assault",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 216132,
+      "name": "Clans of Caledonia",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 185343,
+      "name": "Anachrony",
+      "play_time": 120,
+      "complexity_average": 4,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 230802,
+      "name": "Azul",
+      "play_time": 45,
+      "complexity_average": 1,
+      "domains": "Abstract Games, Family Games"
+   },
+   {
+      "ID": 124742,
+      "name": "Android: Netrunner",
+      "play_time": 45,
+      "complexity_average": 3,
+      "domains": "Customizable Games"
+   },
+   {
+      "ID": 68448,
+      "name": "7 Wonders",
+      "play_time": 30,
+      "complexity_average": 2,
+      "domains": "Family Games, Strategy Games"
+   },
+   {
+      "ID": 201808,
+      "name": "Clank!: A Deck-Building Adventure",
+      "play_time": 60,
+      "complexity_average": 2,
+      "domains": "Family Games, Strategy Games"
+   },
+   {
+      "ID": 200680,
+      "name": "Agricola (Revised Edition)",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 12493,
+      "name": "Twilight Imperium: Third Edition",
+      "play_time": 240,
+      "complexity_average": 4,
+      "domains": "Strategy Games, Thematic Games"
+   },
+   {
+      "ID": 37111,
+      "name": "Battlestar Galactica: The Board Game",
+      "play_time": 180,
+      "complexity_average": 3,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 146021,
+      "name": "Eldritch Horror",
+      "play_time": 240,
+      "complexity_average": 3,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 205896,
+      "name": "Rising Sun",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 163412,
+      "name": "Patchwork",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Abstract Games, Family Games"
+   },
+   {
+      "ID": 178900,
+      "name": "Codenames",
+      "play_time": 15,
+      "complexity_average": 1,
+      "domains": "Party Games"
+   },
+   {
+      "ID": 30549,
+      "name": "Pandemic",
+      "play_time": 45,
+      "complexity_average": 2,
+      "domains": "Family Games, Strategy Games"
+   },
+   {
+      "ID": 281259,
+      "name": "The Isle of Cats",
+      "play_time": 90,
+      "complexity_average": 2,
+      "domains": "Family Games, Strategy Games"
+   },
+   {
+      "ID": 54043,
+      "name": "Jaipur",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 123260,
+      "name": "Suburbia",
+      "play_time": 90,
+      "complexity_average": 2,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 188920,
+      "name": "This War of Mine: The Board Game",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 287954,
+      "name": "Azul: Summer Pavilion",
+      "play_time": 45,
+      "complexity_average": 2,
+      "domains": "Abstract Games, Family Games"
+   },
+   {
+      "ID": 463,
+      "name": "Magic: The Gathering",
+      "play_time": 20,
+      "complexity_average": 3,
+      "domains": "Customizable Games"
+   },
+   {
+      "ID": 171131,
+      "name": "Captain Sonar",
+      "play_time": 60,
+      "complexity_average": 2,
+      "domains": "Party Games, Thematic Games"
+   },
+   {
+      "ID": 224037,
+      "name": "Codenames: Duet",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 148228,
+      "name": "Splendor",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 194655,
+      "name": "Santorini",
+      "play_time": 20,
+      "complexity_average": 1,
+      "domains": "Abstract Games, Family Games"
+   },
+   {
+      "ID": 146886,
+      "name": "La Granja",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 188,
+      "name": "Go",
+      "play_time": 180,
+      "complexity_average": 4,
+      "domains": "Abstract Games"
+   },
+   {
+      "ID": 9209,
+      "name": "Ticket to Ride",
+      "play_time": 60,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 316554,
+      "name": "Dune: Imperium",
+      "play_time": 120,
+      "complexity_average": 2,
+      "domains": "Strategy Games, Thematic Games"
+   },
+   {
+      "ID": 822,
+      "name": "Carcassonne",
+      "play_time": 45,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 176189,
+      "name": "Zombicide: Black Plague",
+      "play_time": 180,
+      "complexity_average": 2,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 155068,
+      "name": "Arcadia Quest",
+      "play_time": 60,
+      "complexity_average": 2,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 192291,
+      "name": "Sushi Go Party!",
+      "play_time": 20,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 128621,
+      "name": "Viticulture",
+      "play_time": 90,
+      "complexity_average": 2,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 92828,
+      "name": "Dixit: Odyssey",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Party Games"
+   },
+   {
+      "ID": 204583,
+      "name": "Kingdomino",
+      "play_time": 15,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 144344,
+      "name": "Rococo",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 203420,
+      "name": "Exit: The Game - The Abandoned Cabin",
+      "play_time": 120,
+      "complexity_average": 2,
+      "domains": "Family Games, Thematic Games"
+   },
+   {
+      "ID": 209418,
+      "name": "Dominion (Second Edition)",
+      "play_time": 30,
+      "complexity_average": 2,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 2655,
+      "name": "Hive",
+      "play_time": 20,
+      "complexity_average": 2,
+      "domains": "Abstract Games"
+   },
+   {
+      "ID": 165722,
+      "name": "KLASK",
+      "play_time": 10,
+      "complexity_average": 1,
+      "domains": "Family Games, Party Games"
+   },
+   {
+      "ID": 77130,
+      "name": "Sid Meier's Civilization: The Board Game",
+      "play_time": 240,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 271896,
+      "name": "Star Wars: Outer Rim",
+      "play_time": 180,
+      "complexity_average": 2,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 41114,
+      "name": "The Resistance",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Party Games"
+   },
+   {
+      "ID": 39856,
+      "name": "Dixit",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Party Games"
+   },
+   {
+      "ID": 70919,
+      "name": "Takenoko",
+      "play_time": 45,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 129622,
+      "name": "Love Letter",
+      "play_time": 20,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 283355,
+      "name": "Dune",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games, Thematic Games"
+   },
+   {
+      "ID": 219513,
+      "name": "Bärenpark",
+      "play_time": 45,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 25554,
+      "name": "Notre Dame",
+      "play_time": 75,
+      "complexity_average": 2,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 8217,
+      "name": "San Juan",
+      "play_time": 60,
+      "complexity_average": 2,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 192458,
+      "name": "51st State: Master Set",
+      "play_time": 90,
+      "complexity_average": 2,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 39683,
+      "name": "At the Gates of Loyang",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 70323,
+      "name": "King of Tokyo",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 71,
+      "name": "Civilization",
+      "play_time": 360,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 257499,
+      "name": "Arkham Horror (Third Edition)",
+      "play_time": 180,
+      "complexity_average": 3,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 246192,
+      "name": "Gizmos",
+      "play_time": 50,
+      "complexity_average": 2,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 198773,
+      "name": "Codenames: Pictures",
+      "play_time": 15,
+      "complexity_average": 1,
+      "domains": "Party Games"
+   },
+   {
+      "ID": 243,
+      "name": "Advanced Squad Leader",
+      "play_time": 480,
+      "complexity_average": 4,
+      "domains": "Wargames"
+   },
+   {
+      "ID": 50,
+      "name": "Lost Cities",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 283155,
+      "name": "Calico",
+      "play_time": 45,
+      "complexity_average": 2,
+      "domains": "Abstract Games, Family Games"
+   },
+   {
+      "ID": 124708,
+      "name": "Mice and Mystics",
+      "play_time": 90,
+      "complexity_average": 2,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 15987,
+      "name": "Arkham Horror",
+      "play_time": 240,
+      "complexity_average": 3,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 98778,
+      "name": "Hanabi",
+      "play_time": 25,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 478,
+      "name": "Citadels",
+      "play_time": 60,
+      "complexity_average": 2,
+      "domains": "Family Games, Strategy Games"
+   },
+   {
+      "ID": 232043,
+      "name": "Queendomino",
+      "play_time": 25,
+      "complexity_average": 2,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 171,
+      "name": "Chess",
+      "play_time": 60,
+      "complexity_average": 3,
+      "domains": "Abstract Games"
+   },
+   {
+      "ID": 133473,
+      "name": "Sushi Go!",
+      "play_time": 15,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 183251,
+      "name": "Karuba",
+      "play_time": 40,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 160010,
+      "name": "Conan",
+      "play_time": 90,
+      "complexity_average": 2,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 6472,
+      "name": "A Game of Thrones",
+      "play_time": 180,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 6249,
+      "name": "Alhambra",
+      "play_time": 60,
+      "complexity_average": 2,
+      "domains": "Family Games, Strategy Games"
+   },
+   {
+      "ID": 128780,
+      "name": "Pax Porfiriana",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 251658,
+      "name": "Sprawlopolis",
+      "play_time": 20,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 153938,
+      "name": "Camel Up",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 169255,
+      "name": "A Game of Thrones: The Card Game (Second Edition)",
+      "play_time": 120,
+      "complexity_average": 3,
+      "domains": "Customizable Games"
+   },
+   {
+      "ID": 113924,
+      "name": "Zombicide",
+      "play_time": 60,
+      "complexity_average": 2,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 131357,
+      "name": "Coup",
+      "play_time": 15,
+      "complexity_average": 1,
+      "domains": "Party Games"
+   },
+   {
+      "ID": 121288,
+      "name": "Dixit: Journey",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Party Games"
+   },
+   {
+      "ID": 198953,
+      "name": "Pax Renaissance",
+      "play_time": 120,
+      "complexity_average": 4,
+      "domains": "Strategy Games, Thematic Games"
+   },
+   {
+      "ID": 1353,
+      "name": "Time's Up!",
+      "play_time": 90,
+      "complexity_average": 1,
+      "domains": "Party Games"
+   },
+   {
+      "ID": 5782,
+      "name": "Coloretto",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 123540,
+      "name": "Tokaido",
+      "play_time": 45,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 220,
+      "name": "High Society",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 143741,
+      "name": "BANG! The Dice Game",
+      "play_time": 15,
+      "complexity_average": 1,
+      "domains": "Party Games"
+   },
+   {
+      "ID": 7717,
+      "name": "Carcassonne: The Castle",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Family Games, Strategy Games"
+   },
+   {
+      "ID": 166384,
+      "name": "Spyfall",
+      "play_time": 15,
+      "complexity_average": 1,
+      "domains": "Party Games"
+   },
+   {
+      "ID": 161417,
+      "name": "Red7",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 65244,
+      "name": "Forbidden Island",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 2093,
+      "name": "Mahjong",
+      "play_time": 120,
+      "complexity_average": 2,
+      "domains": "Abstract Games"
+   },
+   {
+      "ID": 253284,
+      "name": "Ticket to Ride: New York",
+      "play_time": 15,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 1115,
+      "name": "Poker",
+      "play_time": 60,
+      "complexity_average": 2,
+      "domains": "Strategy Games"
+   },
+   {
+      "ID": 232918,
+      "name": "Fallout",
+      "play_time": 180,
+      "complexity_average": 2,
+      "domains": "Thematic Games"
+   },
+   {
+      "ID": 16986,
+      "name": "Ubongo",
+      "play_time": 25,
+      "complexity_average": 1,
+      "domains": "Abstract Games, Family Games"
+   },
+   {
+      "ID": 85256,
+      "name": "Timeline: Inventions",
+      "play_time": 15,
+      "complexity_average": 1,
+      "domains": "Family Games"
+   },
+   {
+      "ID": 2688,
+      "name": "Battlestar Galactica",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": ""
+   },
+   {
+      "ID": 16398,
+      "name": "War",
+      "play_time": 30,
+      "complexity_average": 1,
+      "domains": "Children's Games"
+   },
+   {
+      "ID": 7316,
+      "name": "Bingo",
+      "play_time": 60,
+      "complexity_average": 1,
+      "domains": "Party Games"
+   },
+   {
+      "ID": 11901,
+      "name": "Tic-Tac-Toe",
+      "play_time": 1,
+      "complexity_average": 1,
+      "domains": "Abstract Games, Children's Games"
+   },
+   {
+      "ID": 266192,
+      "name": "Wingspan",
+      "play_time": 70,
+      "complexity_average": 2,
+      "domains": "Family Games, Strategy Games"
+   }
+]
